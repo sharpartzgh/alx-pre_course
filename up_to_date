@@ -1,11 +1,4 @@
 Step 1: Switch back to "master"
 Step 2: Use the command "git fetch" to fetch the change made 
 Step 3: you can use the command "git log --oneline" to see the changes fetched
-Step 3: Use the command "git pull" to add thise changes to your master
-cat <<EOF> up_to_date
-Step 1: Switch back to "master"
-Step 2: Use the command "git fetch" to fetch the change made 
-Step 3: you can use the command "git log --oneline" to see the changes fetched
 Step 4: Use the command "git pull" to add thise changes to your master
-
-Thats all you are done 
